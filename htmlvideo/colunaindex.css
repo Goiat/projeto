@@ -1,0 +1,34 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color: peru;
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+aside{
+    width: 20%;
+    height: 600px;
+    background-color: blueviolet;
+    float: left;
+}
+main{
+    width: 60%;
+    height: 600px;
+    background-color: pink;
+    float: left;
+}
+nav{
+    width: 20%;
+    height: 600px;
+    background-color: blueviolet;
+    float: left;
+}
+
+
+footer{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    background-color: peru;
+    float: right;
+}
